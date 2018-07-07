@@ -2,10 +2,10 @@
 
 <p align="center">
 <a href="https://travis-ci.org/cpriego/valet-linux"><img src="https://travis-ci.org/cpriego/valet-linux.svg?branch=master" alt="Build Status"></a>
-<a href="https://packagist.org/packages/cpriego/valet-linux"><img src="https://poser.pugx.org/cpriego/valet-linux/downloads.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/cpriego/valet-linux"><img src="https://poser.pugx.org/cpriego/valet-linux/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/cpriego/valet-linux"><img src="https://poser.pugx.org/cpriego/valet-linux/v/unstable.svg" alt="Latest Unstable Version"></a>
-<a href="https://packagist.org/packages/cpriego/valet-linux"><img src="https://poser.pugx.org/cpriego/valet-linux/license.svg" alt="License"></a>
+[![Total Downloads](https://poser.pugx.org/cpriego/valet-linux/downloads)](https://packagist.org/packages/cpriego/valet-linux)
+[![Latest Stable Version](https://poser.pugx.org/cpriego/valet-linux/version)](https://packagist.org/packages/cpriego/valet-linux)
+[![Latest Unstable Version](https://poser.pugx.org/cpriego/valet-linux/v/unstable)](//packagist.org/packages/cpriego/valet-linux)
+[![License](https://poser.pugx.org/cpriego/valet-linux/license)](https://packagist.org/packages/cpriego/valet-linux)
 </p>
 
 ## Introduction
